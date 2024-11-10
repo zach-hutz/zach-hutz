@@ -40,19 +40,19 @@
     
 - **Front-End Development**:
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Draftbit](https://img.shields.io/badge/Draftbit%20-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Draftbit](https://img.shields.io/badge/Draftbit%20-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white)
 
 <br>
 
 - **Back-End Development**:
 
-![React](https://img.shields.io/badge/React%20-000.svg?style=for-the-badge&logo=react&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase%20-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=fff)
-![Flask](https://img.shields.io/badge/Flask%20-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js%20-000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React%20-000.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase%20-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=fff)
+  ![Flask](https://img.shields.io/badge/Flask%20-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js%20-000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 <br>
 
